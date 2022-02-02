@@ -18,4 +18,4 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ## Usage 
 
 
-Access deployed application here- 
+Access deployed application here- https://fauziashafi.github.io/Note-Taker/
